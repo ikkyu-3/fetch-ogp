@@ -1,6 +1,6 @@
 {
   "name": "fetch-ogp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a library for fetching OGP data.",
   "main": "dist/index.js",
   "repository": "https://github.com/ikkyu-3/fetch-ogp.git",
