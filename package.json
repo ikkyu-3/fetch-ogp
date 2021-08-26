@@ -4,6 +4,9 @@
   "description": "This is a library for fetching OGP data.",
   "main": "dist/index.js",
   "repository": "https://github.com/ikkyu-3/fetch-ogp.git",
+  "keywords": [
+    "ogp"
+  ],
   "author": "ikkyu-3 <toru.hasegawa.0521@gmail.com>",
   "license": "MIT",
   "scripts": {
