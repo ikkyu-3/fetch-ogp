@@ -11,7 +11,8 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "build": "tsc"
+    "build": "tsc",
+    "publish": "yarn install && yarn test && yarn build && npm publish"
   },
   "devDependencies": {
     "@types/jest": "^26.0.24",
